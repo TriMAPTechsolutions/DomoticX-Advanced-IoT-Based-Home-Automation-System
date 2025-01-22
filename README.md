@@ -1,1 +1,1 @@
-# DomoticX-Advanced-IoT-Based-Home-Automation-System
+# DomoticX-Advanced IoT Based Home Automation System
