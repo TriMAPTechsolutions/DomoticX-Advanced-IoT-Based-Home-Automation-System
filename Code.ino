@@ -23,8 +23,9 @@ char deviceName_1[] = "Switch1";
 char deviceName_2[] = "Switch2";
 char deviceName_3[] = "Switch3";
 char deviceName_4[] = "Switch4";
-char deviceName_5[] = "Switch5"
-char deviceName_6[] = "Switch6"
+char deviceName_5[] = "Switch5";
+char deviceName_6[] = "Switch6";
+
 
 //Update the HEX code of IR Remote buttons 0x<HEX CODE>
 #define IR_Button_1   0x1FEE01F
